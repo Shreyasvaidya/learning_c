@@ -28,4 +28,4 @@ int main(){
         printf("%d",array[0][0]);
         return 0;
 }
-~                                       
+                     
